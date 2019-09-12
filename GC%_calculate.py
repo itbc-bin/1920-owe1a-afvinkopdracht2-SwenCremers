@@ -1,5 +1,5 @@
 #reads a flat text file and uses the count and
-#len function to calculate the GC% and prints it
+#len function to calculate the length and GC% and prints these
 sequentie = open("DictyosteliumDiscoideumMRNANoEnters.txt")
 sequentie = sequentie.read()
 
